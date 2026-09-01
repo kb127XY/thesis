@@ -1,0 +1,10 @@
+model: yolov8n.pt
+imgsz: 640
+epochs: 30
+batch: 16
+device: 0
+workers: 4
+patience: 20
+project: runs
+name: plug_detect
+exist_ok: false

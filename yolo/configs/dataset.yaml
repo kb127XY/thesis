@@ -1,0 +1,6 @@
+path: .
+train: data/images/train
+val: data/images/val
+
+names:
+  0: plug

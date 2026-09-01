@@ -1,0 +1,3 @@
+step1 add CBAM 
+change /home/xykb1/yolo_ws/wire_plug_detect/.venv/lib/python3.12/site-packages/ultralytics/nn/tasks.py
+build /home/xykb1/yolo_ws/wire_plug_detect/.venv/lib/python3.12/site-packages/ultralytics/cfg/models/v8/myyolov8.yaml
